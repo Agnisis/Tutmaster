@@ -1,2 +1,2 @@
 # Tutmaster
-A WEB DEV LEARNING WEBSITE
+An edtech website 
